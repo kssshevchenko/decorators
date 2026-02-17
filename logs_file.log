@@ -1,0 +1,8 @@
+2026-02-17 15:00:05,162 - INFO - Function 'greeting' start
+2026-02-17 15:00:05,162 - INFO - 1.2800039257854223e-05
+2026-02-17 15:00:05,162 - INFO - Function 'greeting' end
+2026-02-17 15:00:05,162 - INFO - Function 'testing' start
+2026-02-17 15:00:06,163 - INFO - 1.0001760000013746
+2026-02-17 15:00:06,163 - INFO - Function 'testing' end
+2026-02-17 15:00:06,163 - INFO - Function 'error' start
+2026-02-17 15:00:06,163 - ERROR - Function error call error error() takes 0 positional arguments but 1 was given
